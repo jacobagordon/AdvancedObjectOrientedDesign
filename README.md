@@ -1,1 +1,2 @@
-# CS-635---Advanced-Object-Oriented-Desing-and-Programming
+# CS 635 - Advanced Object Oriented Design and Programming
+# SDSU Fall 2019
