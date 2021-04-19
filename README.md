@@ -1,2 +1,2 @@
-# CS 635 - Advanced Object Oriented Design and Programming
-# SDSU Fall 2019
+# OOP Projects Developed through my collegiate career
+
